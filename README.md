@@ -46,3 +46,10 @@ Deploy Application on EKS and AKS kubernetes cluster with CI/CD pipeline by usin
 Workflow:
 
 Developer > github > jenkins > Docker registry > helm > AWS EKS
+
+> To install jenkins on server we need to follow below steps
+
+*install java
+
+*Confirm Java version
+
